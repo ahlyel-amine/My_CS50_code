@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: because it had the lowest time on sorted array
+
+sort2 uses: Merge sort
+
+How do you know?: it run the fatest when using random array
+
+sort3 uses: Selection sort
+
+How do you know?: it took the same time om stored and random
